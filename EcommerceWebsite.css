@@ -1,0 +1,244 @@
+.ecommerce-logo {
+  height: 50px;
+  width: 120px;
+}
+
+.ecommerce-bg {
+  height: 100vh;
+  background-size: cover;
+}
+.ecommerce-ourservices-heading {
+  font-family: Roboto;
+  font-size: 25px;
+  color: #183b56;
+  font-weight: 700;
+}
+
+.ecommerce-ourservices-paragraph {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #616c7c;
+}
+
+.overs-img {
+  height: 50px;
+  width: 50px;
+}
+
+.ecommerce-ourservices-heading1 {
+  font-family: Roboto;
+  font-size: 13px;
+  color: #1f2933;
+}
+
+.ecommerce-ourservices-paragraph1 {
+  font-family: Roboto;
+  font-size: 12px;
+  color: #7b8794;
+}
+.ecommerce-heading {
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+  color: #183b56;
+}
+
+.ourproducts-img1 {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+  height: 50vh;
+  background-size: cover;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.ourproducts-heading {
+  font-family: Roboto;
+  font-size: 34px;
+  color: white;
+  font-weight: 700;
+}
+
+.ourproducts-paragraph {
+  font-family: Roboto;
+  font-size: 14px;
+  color: white;
+}
+
+.ourproducts-button {
+  font-family: Roboto;
+  height: 45px;
+  width: 110px;
+  color: #ff9f00;
+  border-radius: 25px;
+  border-width: 0px;
+  background-color: white;
+}
+
+.cardsparagraph {
+  font-family: Roboto;
+  color: black;
+  font-size: 12px;
+}
+
+.cardsheading {
+  font-family: Roboto;
+  color: black;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.ul-style {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.ourproducts-button1 {
+  font-family: Roboto;
+  height: 40px;
+  width: 110px;
+  color: #323f4b;
+  border-radius: 10px;
+  border-color: #323f4b;
+  border-width: 2px;
+  background-color: white;
+}
+
+.ourproducts-img2 {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+  height: 50vh;
+  background-size: cover;
+  border-radius: 10px;
+  padding: 15px;
+}
+.specialoffers-bgclr {
+  height: 150vh;
+  background-image: linear-gradient(to right, #fa9541, #dd5d97);
+  background-size: cover;
+}
+
+.specialoffers-heading {
+  font-family: bree Serif;
+  font-size: 20px;
+  color: #ad2167;
+}
+
+.specialoffers-paragraph {
+  font-family: Roboto;
+  font-size: 12px;
+  color: white;
+}
+
+.specialoffers-img {
+  width: 250px;
+}
+.trending-heading {
+  font-family: Roboto;
+  color: #183b56;
+  font-size: 25px;
+}
+
+.trending-bg {
+  border-radius: 5px;
+  background-color: white;
+}
+
+.trending-paragraph {
+  font-family: Roboto;
+  font-size: 12px;
+  color: #959ead;
+}
+
+.trending-linkclr {
+  font-family: Roboto;
+  font-size: 12px;
+  color: #ff9f00;
+}
+.bgclr {
+  background-color: #f5f7fa;
+}
+
+.explore-heading {
+  font-family: Roboto;
+  font-size: 30px;
+  color: #183b56;
+  font-weight: bold;
+}
+
+.imgcards {
+  height: 140px;
+  width: 140px;
+  border-radius: 25px;
+  margin: 5px;
+}
+
+.explore-paragraph {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #1f2933;
+  text-align: center;
+}
+
+.linkclr {
+  font-family: Roboto;
+  font-size: 12px;
+  color: #ff9f00;
+}
+.contact-bgclr {
+  background-color: #f5f7fa;
+}
+
+.contact-heading {
+  font-family: Roboto;
+  font-size: 25px;
+  color: #183b56;
+  font-weight: bold;
+}
+
+.contact-button {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #ff9f00;
+  background-color: transparent;
+  border-style: solid;
+  border-color: #ff9f00;
+}
+.footer-bgclr {
+  background-color: #0d2436;
+}
+
+.footer-bgclr1 {
+  background-color: #152c3e;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  border-radius: 50px;
+  padding-top: 14px;
+  margin: 6px;
+}
+
+.iconsize {
+  font-size: 23px;
+  color: #5a7184;
+}
+
+.footer-paragraph {
+  font-family: Roboto;
+  font-size: 12px;
+  color: #5a7184;
+}
+
+.footer-heading {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 12px;
+  color: #5a7184;
+}
+
+.ul-style {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.hrline {
+  background-color: #5a7184;
+}
